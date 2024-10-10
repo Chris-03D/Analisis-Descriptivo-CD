@@ -54,7 +54,6 @@ Estructura de datos
 
 Los datos utilizados en este análisis están relacionados con *describe aquí
 brevemente los datos que usaste*, y provienen de *fuente del dataset*
-Entregables:
 
 
 
@@ -64,8 +63,3 @@ Entregables:
 
 
 
-
-
-
-e. Scatterplot
-f. Gráficos de dispersión  
