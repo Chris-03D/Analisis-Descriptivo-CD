@@ -4,28 +4,25 @@ Este repositorio contiene un análisis descriptivo realizado con Python enmarcad
 
 Tabla de contenido
 
-Fundamentos para el Análisis de Datos.
+1.Fundamentos para el Análisis de Datos.
 
-Análisis Exploratorio: Tipos de datos
+2.Análisis Exploratorio: Tipos de datos
 
-Análisis Descriptivo: Medidas de tendencia central
+3.Análisis Descriptivo: Medidas de tendencia central
 
-Media Aritmética
-Media Geométrica
-Media Armónica
-Media Ponderada
-Mediana
-Moda
-Error típico o desviación estándar
+a. Media Aritmética
+b. Media Geométrica
+c. Media Armónica
+d. Media Ponderada
+e. Mediana
+f. Moda
+g. Error típico o desviación estándar 
+
 Visualización de datos:
 
-Gráfico de barras
-Gráfico circular
-Histogramas
-Boxplot
-Scatterplot
-Gráficos de dispersión
-Aplicación
-
-Tecnologias utilizadas
-d. Boxplot 
+a. Gráfico de barras
+b. Gráfico circular
+c. Histogramas
+d. Boxplot
+e. Scatterplot
+f. Gráficos de dispersión  
